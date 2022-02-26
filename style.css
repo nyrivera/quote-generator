@@ -76,6 +76,10 @@ button:active {
 .fa-twitter {
   font-size: 1.5rem;
 }
+loader {
+  border-top: 16px solid blue;
+  border-bottom: 16px solid blue;
+}
 
 /*media query*/
 @media screen and (max-width: 1000px) {
